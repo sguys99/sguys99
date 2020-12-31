@@ -1,4 +1,4 @@
-## Kwang Myung Yu
+## Kwang-Myung Yu (유광명)
 
 ### Work experience
 - **LG Energy solution**, Advanced automotive battery center, senior research engineer (2020)
