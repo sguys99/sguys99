@@ -1,9 +1,9 @@
 ## Kwang Myung Yu
 
 ### Work experience
-- **LG Energy solution**, Advanced automotive battery center, Senior research engineer(2020)
-- **Korea Electric Power Corporation(KEPCO)**, Data science lab., Senior researcher(2010 ~ 2020)
-- **POSCO EnC**, Overseas energy plant group, Instrument & control team, Assistant engineer(2008 ~ 2010)
+- **LG Energy solution**, Advanced automotive battery center, senior research engineer (2020)
+- **Korea Electric Power Corporation(KEPCO)**, Data science lab., senior researcher (2010 ~ 2020)
+- **POSCO EnC**, Overseas energy plant group, Instrument & control team, assistant engineer (2008 ~ 2010)
 
 ### Research interests  
 - **Machine learning for industry :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, optimization
@@ -11,7 +11,7 @@
 - **Computer vision, MLOps, automatic control**
 
 ### Honors and Activities
-- 2nd prize of the power plant big data AI competition, Korea East-West Power Co., 2020  
+- 2nd prize of the power plant big data AI competition, Korea East-West Power Corporation, 2020  
 - Best employee award, KEPCO research institute, 2018  
 - Academic excellent student, Pusan national university, 2003 ~ 2006
 - Lecture 
