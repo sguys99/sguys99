@@ -6,7 +6,7 @@
 - **POSCO EnC**, Overseas energy plant group, Instrument & control team, Assistant engineer(2008 ~ 2010)
 
 ### Research interests  
-- **Machine learning for industry :** Anomaly detection, time series forecasting, optimization
+- **Machine learning for industry :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, optimization
 - **Deep learning for mobile platform(Jetson, Raspberry Pi)**  
 - **Computer vision, MLOps, automatic control**
 
@@ -17,7 +17,9 @@
 - Lecture 
     - Data science basics for ICT employees, KEPCO, 2019  
     - Control system tuning and data analytics, KITI, 2014 ~ 2020  
-    - Energy system control and PID tuning theories, Korea Power Learning Institute, 2014  
+    - Energy system control and PID tuning theories, Korea Power Learning Institute, 2014   
+- Activities  
+    - **Turtles :** AI for algorithmic trading [[Github]](https://github.com/turtles3040)
 
 ### Contact
 <p align="center">
