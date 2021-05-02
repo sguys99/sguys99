@@ -1,7 +1,7 @@
 ## Kwang-Myung Yu (유광명)
 
 ### Work experience
-- **LG Energy solution**, Advanced automotive battery center, senior research engineer (2020)
+- **Samsung Electro-mechanics**, Global manufacturing center, staff engineer (2021)
 - **Korea Electric Power Corporation(KEPCO)**, Data science lab., senior researcher (2010 ~ 2020)
 
 ### Research interests  
