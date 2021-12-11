@@ -19,7 +19,7 @@
     - **Turtles :** AI for algorithmic trading [[Github]](https://github.com/turtles3040)
 
 ### Stack
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=c sharp&logoColor=white"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=mssqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/c#-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=c sharp&logoColor=white"> <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=mssqlserver&logoColor=white">
 
 ### Contact
 <p align="center">
