@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=for-the-badge&logo=mssqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/MS SQL Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 <br>
 </div>
 
