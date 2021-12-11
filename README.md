@@ -18,6 +18,9 @@
 - Activities  
     - **Turtles :** AI for algorithmic trading [[Github]](https://github.com/turtles3040)
 
+### Stack
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
 ### Contact
 <p align="center">
 <a href="https://www.linkedin.com/in/kmyu99/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@kmyu99-blue?style=flat&logo=linkedin"></a>
