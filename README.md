@@ -5,7 +5,7 @@
 - **Korea Electric Power Corporation(KEPCO)**, Data science lab., senior researcher (2010 ~ 2020)
 
 ### Research interests  
-- **Machine learning for industries :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, optimization
+- **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, optimization
 - **Deep learning for mobile platform(Jetson, Raspberry Pi), Computer vision, MLOps, automatic control**
 
 ### Honors and Activities
