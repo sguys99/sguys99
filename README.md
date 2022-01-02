@@ -16,7 +16,10 @@
     - Data science basics for ICT employees, KEPCO, 2019  
     - Control system tuning and data analytics, KITI, 2014 ~ 2020  
 - Activities  
+    - **Blog :** Happy plant [[link]](https://sguys99.github.io/) 
     - **Turtles :** AI for algorithmic trading [[Github]](https://github.com/turtles3040)
+- Publications
+    - **git for visual studio users** : [[link]](https://wikidocs.net/book/7060)
 
 ### Stack
 <div align=center> 
