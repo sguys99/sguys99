@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5c2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">    
 </div>
 
 ### Contact
