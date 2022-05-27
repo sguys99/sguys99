@@ -6,7 +6,7 @@
 
 ### Research interests  
 - **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, optimization
-- **Deep learning for mobile platform(Jetson, Raspberry Pi), Computer vision, MLOps, automatic control**
+- **MLOps, Deep learning for mobile platform(Jetson, Raspberry Pi), Computer vision, automatic control**
 
 ### Honors and Activities
 - 2nd prize of the power plant big data AI competition, Korea East-West Power Corporation, 2020  
