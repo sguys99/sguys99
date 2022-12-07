@@ -25,7 +25,7 @@
 ### Stack
 <div align=center>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white">
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=mac OS&logoColor=white">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=WSL2%2B%2B&logoColor=white">   
 <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
