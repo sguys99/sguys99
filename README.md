@@ -15,11 +15,12 @@
 - Academic excellent student, Pusan national university, 2003 ~ 2006
 - Lecture 
     - Data science basics for ICT employees, KEPCO, 2019  
-    - Control system tuning and data analytics, KITI, 2014 ~ 2020  
+    - Control system tuning and data analytics, KITI, 2014 ~ 2023  
 - Activities  
     - **Happy plant :** personal blog for Data science, machine learning, and automatic control [[link]](https://sguys99.github.io/) 
     - **Turtles :** AI for algorithmic trading [[Github]](https://github.com/turtles3040)
 - Publications
+    - **파이썬 코드로 배우는 Git&Github** : [[link]](https://www.youngjin.com/book/book_detail.asp?prod_cd=9788931467659&seq=7193&cate_cd=1&child_cate_cd=9&goPage=1&orderByCd=1)
     - **git for visual studio users** : [[link]](https://wikidocs.net/book/7060)
 
 ### Stack
