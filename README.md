@@ -66,7 +66,6 @@
 <img src="https://img.shields.io/badge/Dash-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white">
 </div>
 
