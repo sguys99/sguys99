@@ -5,6 +5,7 @@
 - **GIVITA**, AI Part, AI Engineer (2022)
 - **Samsung Electro-mechanics**, Equipment Engineering R&D Institute, pricipal research engineer (2021 ~ 2022)
 - **Korea Electric Power Corporation(KEPCO)**, Data science lab., senior researcher (2010 ~ 2020)
+- **POSCO EnC**, Power tech group., control system engineer (2008 ~ 2010)
 
 ### Research interests  
 - **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, optimization
