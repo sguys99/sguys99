@@ -8,8 +8,8 @@
 - **POSCO EnC**, Power tech group., control system engineer (2008 ~ 2010)
 
 ### Research interests  
-- **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, optimization
-- **MLOps, Deep learning for mobile platform(Jetson, Raspberry Pi), Computer vision, automatic control**
+- **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, optimization, automatic control
+- **MLOps, Deep learning for mobile platform(Jetson, Raspberry Pi), Computer vision**
 
 ### Honors and Activities
 - 2nd prize of the power plant big data AI competition, Korea East-West Power Corporation, 2020  
