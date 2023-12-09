@@ -1,7 +1,7 @@
 ## Kwang-Myung Yu (유광명)
 
 ### Work experience
-- **MakinaRocks**, AI Project Team, senior ML engineer (2023)
+- **MakinaRocks**, AI Project Team, senior ML engineer (2023 ~ )
 - **GIVITA**, AI Part, AI Engineer (2022)
 - **Samsung Electro-mechanics**, Equipment Engineering R&D Institute, pricipal research engineer (2021 ~ 2022)
 - **Korea Electric Power Corporation(KEPCO)**, Data science lab., senior data scientist (2010 ~ 2020)
