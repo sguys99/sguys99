@@ -1,7 +1,7 @@
 ## Kwang-Myung Yu (유광명)
 
 ### Work experience
-- **PwC**, Digital & AI (2024 ~ )
+- **PwC**, Digital & AI, AIA (2024 ~ )
 - **MakinaRocks**, AI Project Team, Part leader, ML engineer (2023 ~ 2024)
 - **GIVITA**, AI Part, AI Engineer (2022)
 - **Samsung Electro-mechanics**, Equipment Engineering R&D Institute, pricipal research engineer (2021 ~ 2022)
