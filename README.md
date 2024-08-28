@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/langchain-#1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">    
+<img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">    
 </div>
 
 ### Contact
