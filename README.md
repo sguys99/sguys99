@@ -14,7 +14,7 @@
 
 ### Honors and Activities
 - 2nd prize of the power plant big data AI competition, Korea East-West Power Corporation, 2020  
-- Best employee award, KEPCO research institute, 2018  
+- Best research award, KEPCO research institute, 2018  
 - Academic excellent student, Pusan national university, 2003 ~ 2006
 - Lecture 
     - Data science basics for ICT employees, KEPCO, 2019  
