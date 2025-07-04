@@ -7,10 +7,10 @@
 - **Korea Electric Power Corporation(KEPCO)**, Data science lab., senior data scientist (2010 ~ 2020)
 - **POSCO EnC**, Power tech group., control system engineer (2008 ~ 2010)
 
-### Research interests  
+### Research Interests  
 - **LLM application :** Agent AI, RAG, Question Answering, Text-to-SQL
 - **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, optimization, automatic control
-- **MLOps, Deep learning for mobile platform(Jetson, Raspberry Pi), Computer vision**
+- **MLOps, LLMOps**
 
 ### Honors and Activities
 - 2nd prize of the power plant big data AI competition, Korea East-West Power Corporation, 2020  
