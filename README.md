@@ -13,10 +13,12 @@
 - **MLOps, LLMOps**
 
 ### Honors and Activities
+- Best People, PwC Consulting, 2025
 - 2nd prize of the power plant big data AI competition, Korea East-West Power Corporation, 2020  
 - Best research award, KEPCO research institute, 2018  
 - Academic excellent student, Pusan national university, 2003 ~ 2006
-- Lecture 
+- Lecture
+    - LLM and RAG application, Incheon national university, 2005
     - Data science basics for ICT employees, KEPCO, 2019  
     - Control system tuning and data analytics, KITI, 2014 ~ 2023  
 - Activities  
