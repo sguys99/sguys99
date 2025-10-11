@@ -1,19 +1,19 @@
 ## Kwang-Myung Yu (유광명)
 
 ### Work experience
-- **PwC Consulting**, Digital & AI, Director (2024 ~ )
-- **MakinaRocks**, AI Project Team, Part leader, ML engineer (2023 ~ 2024)
-- **Samsung Electro-mechanics**, Equipment Engineering R&D Institute, pricipal research engineer (2020 ~ 2022)
-- **Korea Electric Power Corporation(KEPCO)**, Data science lab., senior data scientist (2010 ~ 2020)
-- **POSCO EnC**, Power tech group., control system engineer (2008 ~ 2010)
+- **PwC Consulting**, Digital & AI, Director/ Senior ML engineer (2024 ~ )
+- **MakinaRocks**, AI Project Team, Part leader/ Senior ML engineer (2023 ~ 2024)
+- **Samsung Electro-mechanics**, Equipment Engineering R&D Institute, Pricipal SW engineer (2020 ~ 2022)
+- **Korea Electric Power Corporation(KEPCO)**, Data science lab., Senior data scientist (2010 ~ 2020)
+- **POSCO EnC**, Power tech group., Control system engineer (2008 ~ 2010)
 
 ### Research Interests  
 - **LLM application :** Agent system, Workflow design, RAG, Question Answering, Text-to-SQL
-- **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, optimization, optimal control
-- **MLOps, LLMOps**
+- **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, process optimization, optimal control
+- **MLOps, LLMOps** : Model serving, evaluation
 
 ### Honors and Activities
-- Best People, PwC Consulting, 2025
+- Best People award, PwC Consulting, 2025
 - 2nd prize of the power plant big data AI competition, Korea East-West Power Corporation, 2020  
 - Best research award, KEPCO research institute, 2018  
 - Academic excellent student, Pusan national university, 2003 ~ 2006
