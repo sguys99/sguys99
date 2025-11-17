@@ -1,7 +1,7 @@
 ## Kwang-Myung Yu (유광명)
 
 ### Work experience
-- **MemoruAI**, CAIO/ COO (2025 ~ , Part Time)
+- **Memoru AI**, CAIO/ COO (2025 ~ , Part Time)
 - **PwC Consulting**, Digital & AI, Director/ Senior ML engineer (2024 ~ 2025)
 - **MakinaRocks**, AI Project Team, Part leader/ Senior ML engineer (2023 ~ 2024)
 - **Samsung Electro-mechanics**, Equipment Engineering R&D Institute, Pricipal SW engineer (2020 ~ 2022)
