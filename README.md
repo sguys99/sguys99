@@ -1,7 +1,7 @@
 ## Kwang-Myung Yu (유광명)
 
 ### Work experience
-- **PwC Consulting**, Digital & AI, Director/ Senior ML engineer (2024 ~ 2025)
+- **PwC Consulting**, Digital & AI, Director/ Senior ML engineer (2024 ~ )
 - **MakinaRocks**, AI Project Team, Part leader/ Senior ML engineer (2023 ~ 2024)
 - **Samsung Electro-mechanics**, Equipment Engineering R&D Institute, Pricipal SW engineer (2020 ~ 2022)
 - **Korea Electric Power Corporation(KEPCO)**, Data science lab., Senior data scientist (2010 ~ 2020)
