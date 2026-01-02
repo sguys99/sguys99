@@ -1,5 +1,7 @@
 ## Kwang-Myung Yu (유광명)
 
+in-memory-of-mom (2026. 1. 2)
+
 ### Work experience
 - **PwC Consulting**, Digital & AI, Director/ Senior ML engineer (2024 ~ 2025)
 - **MakinaRocks**, AI Project Team, Part leader/ Senior ML engineer (2023 ~ 2024)
