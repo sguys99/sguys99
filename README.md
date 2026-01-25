@@ -1,6 +1,6 @@
 ## Kwang-Myung Yu (유광명)
 
-in-memory-of-mom (2026. 1. 2 (2025. 11. 14) / 2025. 2. 19(49th))
+in-memory-of-mom (2026. 1. 2 /2025. 11. 14 , 2025. 2. 19(49th))
 
 ### Work experience
 - **PwC Consulting**, Digital & AI, Director/ Senior ML engineer (2024 ~ 2025)
@@ -10,9 +10,9 @@ in-memory-of-mom (2026. 1. 2 (2025. 11. 14) / 2025. 2. 19(49th))
 - **POSCO EnC**, Power tech group., Control system engineer (2008 ~ 2010)
 
 ### Research Interests  
-- **LLM application :** Agent system, Workflow design, RAG, Question Answering, Text-to-SQL
+- **LLM application :** Agent system, Workflow design, RAG, Question Answering, Text-to-SQL services
 - **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, process optimization, optimal control
-- **MLOps, LLMOps** : Model serving, evaluation
+- **MLOps, LLMOps** : Model serving, test and evaluation
 
 ### Honors and Activities
 - Best People award, PwC Consulting, 2025
