@@ -10,12 +10,12 @@ in-memory-of-mom (2026. 1. 2 /2025. 11. 14 , 2025. 2. 19(49th))
 - **POSCO EnC**, Power tech group., Control system engineer (2008 ~ 2010)
 
 ### Research Interests  
-- **LLM application :** Agent system, Workflow design, RAG, Question Answering, Text-to-SQL services
+- **LLM application :** Agent system, Workflow design, RAG, Question Answering, Text-to-SQL
 - **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, process optimization, optimal control
 - **MLOps, LLMOps** : Model serving, test and evaluation
 
 ### Honors and Activities
-- Best People award, PwC Consulting, 2025
+- Best People awards, PwC Consulting, 2025
 - 2nd prize of the power plant big data AI competition, Korea East-West Power Corporation, 2020  
 - Best research award, KEPCO research institute, 2018  
 - Academic excellent student, Pusan national university, 2003 ~ 2006
