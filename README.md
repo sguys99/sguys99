@@ -1,6 +1,6 @@
 ## Kwang-Myung Yu (유광명)
 
-**in-memory-of-mom** : 26.1.2(음 25.11.14) , 25.2.19 / 49th)
+**in-memory-of-mom** : 26.1.2(음 25.11.14)
 
 ### Work experience
 - **PwC Consulting**, Digital & AI, Director/ Senior ML engineer (2024 ~ 2025)
