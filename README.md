@@ -12,7 +12,7 @@
 ### Research Interests  
 - **LLM application :** Agent system, Workflow design, RAG, Text-to-SQL
 - **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, process optimization, optimal control
-- **MLOps, LLMOps** : Model serving, test and evaluation
+- **MLOps, LLMOps** : Data/ Training pipeline, serving, test and evaluation
 
 ### Honors and Activities
 - Best People awards, PwC Consulting, 2025
