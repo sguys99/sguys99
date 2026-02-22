@@ -10,7 +10,7 @@
 - **POSCO EnC**, Power tech group., Control system engineer (2008 ~ 2010)
 
 ### Research Interests  
-- **LLM application :** Agent system, Workflow design, RAG, Question Answering, Text-to-SQL
+- **LLM application :** Agent system, Workflow design, RAG, Text-to-SQL
 - **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, process optimization, optimal control
 - **MLOps, LLMOps** : Model serving, test and evaluation
 
