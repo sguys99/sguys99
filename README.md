@@ -11,7 +11,7 @@
 
 ### Research Interests  
 - **LLM application :** Agent system, Workflow design, RAG, Text-to-SQL
-- **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series forecasting, process optimization, optimal control
+- **Machine learning for industrial application :** Anomaly detection(imbalanced learn, unsupervised approach), time series analysis, process optimization, optimal control
 - **MLOps, LLMOps** : Data/ Training pipeline, serving, test and evaluation
 
 ### Honors and Activities
