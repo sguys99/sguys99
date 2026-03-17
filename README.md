@@ -33,24 +33,24 @@
 ### Stack
 <div align=center>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-<img src="https://img.shields.io/badge/mac OS-000000?style=for-the-badge&logo=macOS&logoColor=white">
-<img src="https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=Windows%2B%2B&logoColor=white">   
+<img src="https://img.shields.io/badge/mac%20OS-000000?style=for-the-badge&logo=macOS&logoColor=white">
+<img src="https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=Windows&logoColor=white">   
 <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
 <br>    
-<img src="https://img.shields.io/badge/MS SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/My SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/My%20SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">    
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
 <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
@@ -61,13 +61,13 @@
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=Jira&logoColor=white">
-<img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=Linear&logoColor=white">
+<img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white"> 
 <br>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">  
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/Dash-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white">
@@ -76,9 +76,9 @@
 <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white">
 <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">  
 <img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
-<img src="https://img.shields.io/badge/LiteLLM-FF5733?style=for-the-badge&logo=litellm&logoColor=white">
-<img src="https://img.shields.io/badge/vLLM-7B68EE?style=for-the-badge&logo=vllm&logoColor=white">
-<img src="https://img.shields.io/badge/ADK-4285F4?style=for-the-badge&logo=google&logoColor=white">
+<img src="https://img.shields.io/badge/LiteLLM-6C47FF?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/VLLM-0F172A?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/ADK-4285F4?style=for-the-badge&logoColor=white">
 </div>
 
 ### Contact
