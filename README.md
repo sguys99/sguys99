@@ -37,6 +37,7 @@
 <img src="https://img.shields.io/badge/WSL2-0078D6?style=for-the-badge&logo=Windows%2B%2B&logoColor=white">   
 <br>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
@@ -59,12 +60,14 @@
 <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white">
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=Jira&logoColor=white"> 
+<img src="https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=Linear&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">  
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
 <img src="https://img.shields.io/badge/Dash-3F4F75?style=for-the-badge&logo=Plotly&logoColor=white">
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=Supabase&logoColor=white">
 <br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">  
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=MLflow&logoColor=white">
@@ -72,7 +75,10 @@
 <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white">
 <img src="https://img.shields.io/badge/langgraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white">
 <img src="https://img.shields.io/badge/huggingface-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white">  
-<img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">  
+<img src="https://img.shields.io/badge/ollama-000000?style=for-the-badge&logo=ollama&logoColor=white">
+<img src="https://img.shields.io/badge/LiteLLM-FF5733?style=for-the-badge&logo=litellm&logoColor=white">
+<img src="https://img.shields.io/badge/vLLM-7B68EE?style=for-the-badge&logo=vllm&logoColor=white">
+<img src="https://img.shields.io/badge/ADK-4285F4?style=for-the-badge&logo=google&logoColor=white">
 </div>
 
 ### Contact
